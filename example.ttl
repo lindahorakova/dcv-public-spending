@@ -11,7 +11,7 @@
 
 
 #	Provizorni prefix a URI 
-@prefix test:		<https://raw.githubusercontent.com/lindahorakova/dvc-public-spendings/2e4ef6a150af21403bc48f8511c881f43dc2131f/example.ttl#>	.
+@prefix test:		<https://raw.githubusercontent.com/lindahorakova/dvc-public-spendings/master/example.ttl#>	.
 
 
 # Dataset
